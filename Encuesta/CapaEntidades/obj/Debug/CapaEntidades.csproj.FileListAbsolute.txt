@@ -1,0 +1,7 @@
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\obj\Debug\CapaEntidades.Properties.Resources.resources
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\obj\Debug\CapaEntidades.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\bin\Debug\CapaEntidades.exe
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\obj\Debug\CapaEntidades.exe
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache

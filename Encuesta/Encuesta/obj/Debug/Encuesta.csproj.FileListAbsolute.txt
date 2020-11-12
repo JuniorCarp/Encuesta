@@ -1,0 +1,15 @@
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.Form1.resources
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.Properties.Resources.resources
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\Encuesta.exe.config
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\Encuesta.exe
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\Encuesta.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\CapaBaseDeDatos.exe
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\CapaEntidades.exe
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\CapaBaseDeDatos.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\CapaBaseDeDatos.exe.config
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\bin\Debug\CapaEntidades.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.csproj.CopyComplete
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.exe
+C:\Users\tyler.diaz\Documents\Encuesta\Encuesta\obj\Debug\Encuesta.pdb

@@ -1,0 +1,11 @@
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\obj\Debug\CapaBaseDeDatos.Properties.Resources.resources
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\obj\Debug\CapaBaseDeDatos.csproj.GenerateResource.cache
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\obj\Debug\CapaBaseDeDatos.csprojAssemblyReference.cache
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\bin\Debug\CapaBaseDeDatos.exe.config
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\bin\Debug\CapaBaseDeDatos.exe
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\bin\Debug\CapaBaseDeDatos.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\bin\Debug\CapaEntidades.exe
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\obj\Debug\CapaBaseDeDatos.csproj.CopyComplete
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\obj\Debug\CapaBaseDeDatos.exe
+C:\Users\tyler.diaz\Documents\Encuesta\CapaBaseDeDatos\obj\Debug\CapaBaseDeDatos.pdb
